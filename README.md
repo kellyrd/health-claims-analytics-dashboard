@@ -38,7 +38,7 @@
 
   ### 💵 Advanced Funding (Group Detail)
   <p align="center">
-    <img src="images/group_detail_and_advanced_funding.png" width="800" />
+    <img src="images/group_detail_and_avanced_funding.png" width="800" />
   </p>
 
 <p align="center"><em>Displays claimants who exceed the advanced‑funding threshold, along with a downloadable CSV export. Highlights SQLAlchemy‑powered data filtering, threshold logic, and practical reporting features used in stop‑loss underwriting.</em></p>
