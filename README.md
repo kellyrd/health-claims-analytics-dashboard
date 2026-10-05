@@ -31,7 +31,7 @@
   ### 🏥 Group Overview
 
   <p align="center">
-  <img src="images/group_overview.png" width="800" />
+  <img src="Images/Group_Overview.png" width="800" />
 </p>
 <p align="center"><em>Clean landing page that allows users to select an employer group, view high‑level claim metrics, and navigate into detailed analytics.</em></p>
 
