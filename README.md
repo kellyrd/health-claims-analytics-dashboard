@@ -21,9 +21,6 @@
 
 ---
 
-# 📸 Screenshots
-
----
 
 # 📸 Screenshots
 
@@ -32,25 +29,33 @@
   <br>
 
   ### 🏥 Group Overview
+
   <p align="center">
-    <img src="images/group_overview.png" width="800" />
-  </p>
+  <img src="images/group_overview.png" width="800" />
+</p>
+<p align="center"><em>Clean landing page that allows users to select an employer group, view high‑level claim metrics, and navigate into detailed analytics.</em></p>
+
 
   ### 💵 Advanced Funding (Group Detail)
   <p align="center">
-    <img src="images/advanced_funding.png" width="800" />
+    <img src="images/group_detail_and_advanced_funding.png" width="800" />
   </p>
+
+<p align="center"><em>Displays claimants who exceed the advanced‑funding threshold, along with a downloadable CSV export. Highlights SQLAlchemy‑powered data filtering, threshold logic, and practical reporting features used in stop‑loss underwriting.</em></p>
 
   ### 📊 Cost Driver Analysis & High‑Risk Claimants
   <p align="center">
-    <img src="images/cost_drivers.png" width="800" />
+    <img src="images/cost_driver_analysis.png" width="800" />
   </p>
+
+<p align="center"><em>Breaks down top diagnosis, procedure, provider, and POS cost drivers, paired with a high‑risk claimant watchlist and exportable data. Shows real analytical depth, business‑relevant insights, and modular data‑processing pipelines.</em></p>
 
   ### 📈 Monthly Paid Claims Trend
   <p align="center">
     <img src="images/monthly_trend.png" width="800" />
   </p>
 
+<p align="center"><em>An Altair visualization showing monthly paid claims with an aggregate threshold overlay. Demonstrates trend analysis, visual storytelling, and the ability to surface emerging cost patterns for underwriting and analytics teams.</em></p>
 </details>
 
 > [!IMPORTANT]
