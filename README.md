@@ -19,6 +19,55 @@
 
 ---
 
+---
+
+# 📸 Screenshots
+
+---
+
+# 📸 Screenshots
+
+<details>
+  <summary><strong>Click to expand screenshots</strong></summary>
+  <br>
+
+  ### 🏥 Group Overview
+  <p align="center">
+    <img src="images/group_overview.png" width="800" />
+  </p>
+
+  ### 💵 Advanced Funding (Group Detail)
+  <p align="center">
+    <img src="images/advanced_funding.png" width="800" />
+  </p>
+
+  ### 📊 Cost Driver Analysis & High‑Risk Claimants
+  <p align="center">
+    <img src="images/cost_drivers.png" width="800" />
+  </p>
+
+  ### 📈 Monthly Paid Claims Trend
+  <p align="center">
+    <img src="images/monthly_trend.png" width="800" />
+  </p>
+
+</details>
+
+> [!IMPORTANT]
+> All data shown in this dashboard is **fully synthetic** and does **not** represent real individuals, employers, or claims.  
+> This project is for educational and portfolio purposes only.
+
+
+  ### 🔍 High‑Risk Claimant Watchlist
+  <p align="center">
+    <img src="images/high_risk.png" width="800" />
+  </p>
+
+</details>
+
+
+---
+
 📊 Overview
 A Python/Streamlit dashboard that transforms raw health claims data into actionable insights, including deductible tracking, cost drivers, trend analysis, predictive modeling, and a high‑risk claimant watchlist.
 
