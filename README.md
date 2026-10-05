@@ -222,5 +222,5 @@ Role‑based authentication
 ---
 
 💡 Purpose
-This project is designed as a portfolio‑ready example of building a real‑world analytics dashboard from scratch. It highlights your ability to work with data pipelines, visualization, predictive modeling, 
+This project is designed as a portfolio‑ready example of building a real‑world analytics dashboard from scratch. It highlights my ability to work with data pipelines, visualization, predictive modeling, 
 and interactive UI development — all essential skills for analytics, underwriting, and engineering roles.
