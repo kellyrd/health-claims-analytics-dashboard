@@ -63,10 +63,7 @@
 > This project is for educational and portfolio purposes only.
 
 
-  ### 🔍 High‑Risk Claimant Watchlist
-  <p align="center">
-    <img src="images/high_risk.png" width="800" />
-  </p>
+ 
 
 </details>
 
